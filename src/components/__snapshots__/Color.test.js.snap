@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Color Component renders a Color 1`] = `
+<dl>
+  <dt>
+    Name
+  </dt>
+  <dd>
+    Pearl Violet
+  </dd>
+  <dt>
+    Hex
+  </dt>
+  <dd>
+    #8673A1
+  </dd>
+  <dt>
+    RGB
+  </dt>
+  <dd>
+    Red - 
+    134
+  </dd>
+  <dd>
+    Green - 
+    115
+  </dd>
+  <dd>
+    Blue - 
+    161
+  </dd>
+</dl>
+`;
